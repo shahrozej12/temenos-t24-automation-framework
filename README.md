@@ -1,70 +1,83 @@
 # Temenos T24 Automation Framework
-Automation framework built for Temenos T24 core banking application using **Selenium**, **Java**, **Cucumber (BDD)**, and **Excel-driven test data**.
+
+Automation framework built for the **Temenos T24 core banking application** using **Selenium**, **Java**, **Cucumber (BDD)**, and **Excel-driven test data**.
 
 ---
 
-##  Overview
-This project highlights my real-world experience in building scalable, maintainable automation solutions within enterprise banking environments.  
-It focuses on automating **customer update workflows** in Temenos T24, including scenarios where data is **added, updated, or intentionally left blank**, based on Excel-driven input.
+## Overview
 
-The framework demonstrates my ability to design structured, modular, and professional-grade automation systems suitable for complex financial applications.
+This project highlights my real-world experience in building **scalable, maintainable automation solutions** within enterprise banking environments.  
+It focuses on automating **customer update workflows** in Temenos T24, including scenarios where data is **added, updated, or intentionally left blank** based on Excel-driven input.
 
- **Note:** Temenos T24 is a licensed banking platform.  
-This repository showcases my automation expertise, but the framework cannot be executed without an enterprise instance.
+The framework demonstrates my ability to design **structured, modular, and professional-grade automation systems** suitable for complex financial applications.
 
----
-
-##  Technology Stack
-- **Java**
-- **Selenium WebDriver**
-- **Cucumber (BDD) & Gherkin**
-- **Maven**
-- **Excel/Apache POI (Data-Driven Testing)**
+> ⚠️ **Note:** Temenos T24 is a licensed banking platform.  
+> This repository showcases my automation expertise, but the framework cannot be executed without an enterprise instance.
 
 ---
 
-##  Key Highlights
-- Built a **fully data-driven automation framework** for Temenos T24
-- Implemented **end-to-end customer update workflows**, including multiple entries and empty-field validation
-- Designed clear, readable **BDD test scenarios** using Gherkin
-- Developed **modular, reusable automation components**
-- Ensured strong separation of test logic, business steps, and UI abstraction layers
-- Demonstrated hands-on automation engineering capability in enterprise banking systems
+## Technology Stack
+
+- **Java** – programming language  
+- **Selenium WebDriver** – automated UI testing  
+- **Cucumber (BDD) & Gherkin** – readable, structured test scenarios  
+- **Maven** – build and dependency management  
+- **Excel / Apache POI** – data-driven testing  
 
 ---
 
-##  What This Project Demonstrates About Me
-- Strong understanding of enterprise applications (Temenos T24)
-- Ability to build professional, scalable automation frameworks
-- Expertise in data-driven testing and BDD methodology
-- Experience handling real-world banking workflows and validation rules
-- Clean engineering practices suitable for international teams
+## Key Highlights
+
+- Built a **fully data-driven automation framework** for Temenos T24  
+- Implemented **end-to-end customer update workflows**, including multiple entries and empty-field validation  
+- Designed clear, readable **BDD test scenarios** using Gherkin  
+- Developed **modular, reusable automation components**  
+- Ensured strong separation of **test logic, business steps, and UI abstraction layers**  
+- Demonstrated hands-on automation engineering capability in enterprise banking systems  
 
 ---
 
-##  Methodology
-- **BDD approach** for collaboration and clarity
-- **Page Object principles** for maintainability
-- **Data-driven execution** using Excel sheets
-- **Reusable step definitions** for rapid test creation
-- **Workflow-focused automation** aligned with banking processes
+## What This Project Demonstrates About Me
+
+- Strong understanding of enterprise applications (Temenos T24)  
+- Ability to build **professional, scalable automation frameworks**  
+- Expertise in **data-driven testing and BDD methodology**  
+- Experience handling **real-world banking workflows and validation rules**  
+- Clean engineering practices suitable for **international teams**  
 
 ---
-##  Automation Recording
-A screen recording of the automated Temenos T24 workflow is included to visually demonstrate:
 
-- Customer update automation in action
-- Multiple entries added and updated from Excel
-- Execution of BDD scenarios via Cucumber
-- Selenium-driven UI steps inside the T24 environment
+## Methodology
 
-This recording provides recruiters and engineers with a clear view of how the framework performs live automation on an enterprise banking system.
+- **BDD approach** for collaboration and clarity  
+- **Page Object principles** for maintainability  
+- **Data-driven execution** using Excel sheets  
+- **Reusable step definitions** for rapid test creation  
+- **Workflow-focused automation** aligned with banking processes  
 
 ---
-##  Contact
+
+## 🎥 Automation Recording
+
+A **screen recording of the automated Temenos T24 workflow** is included in the repository:  
+
+- Customer update automation in action  
+- Multiple entries added and updated from Excel  
+- Execution of BDD scenarios via Cucumber  
+- Selenium-driven UI steps inside the T24 environment  
+
+**Path in repository:** `/output.avi`  
+
+This recording provides recruiters and engineers with a clear view of how the framework performs **live automation** in an enterprise banking system.
+
+---
+
+## Contact
+
 **Shahroze Janjua**  
-📧 Email: *shahreyrana9@gmail.com*  
-🔗 LinkedIn: [linkedin.com/in/shahroze-janjua-baa58515a](https://www.linkedin.com/in/shahroze-janjua-baa58515a)
+📧 Email: shahreyrana9@gmail.com  
+🔗 LinkedIn: [https://www.linkedin.com/in/shahroze-janjua-baa58515a](https://www.linkedin.com/in/shahroze-janjua-baa58515a)
 
 ---
 
+*This project is part of my professional automation portfolio, highlighting my skills in Selenium, Java, BDD, and data-driven automation for enterprise banking systems. The included **automation recording** provides visual proof of workflow execution.*
